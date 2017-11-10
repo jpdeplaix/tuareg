@@ -43,7 +43,8 @@
   - Make possible to pass argument to the program being debugged (issue #66).
   - Warn if SMIE is disabled.
 
-* New modes `tuareg-jbuild` and `tuareg-opam`.
+* New modes `tuareg-jbuild` and `tuareg-opam` with syntax
+  highlighting, indentation, and skeletons.
 
 2.0.10
 ------
